@@ -24,7 +24,7 @@ No momento, estou aprofundando meus conhecimentos nas seguintes ferramentas:
 
 ### 📫 Vamos nos conectar?
 Estou sempre aberto a novos desafios e networking.
-- **LinkedIn:** (https://www.linkedin.com/in/felipesouzadev/)
+- **LinkedIn:** https://www.linkedin.com/in/felipesouzadev/
 - **E-mail:** felipeofficee@gmail.com
 
 ---
