@@ -24,17 +24,6 @@ No momento, estou aprofundando meus conhecimentos nas seguintes ferramentas:
 
 ### 📫 Vamos nos conectar?
 Estou sempre aberto a novos desafios e networking.
-## 📬 Vamos nos conectar?
-
-Estou sempre aberto a novos desafios e networking.
-
-## 📬 Vamos nos conectar?
-
-Estou sempre aberto a novos desafios e networking.
-
-## 📬 Vamos nos conectar?
-
-Estou sempre aberto a novos desafios e networking.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/felipesouzadev/" target="_blank">
