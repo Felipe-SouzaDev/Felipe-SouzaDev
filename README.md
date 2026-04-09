@@ -22,14 +22,18 @@ No momento, estou aprofundando meus conhecimentos nas seguintes ferramentas:
 
 ---
 
-### 📫 Vamos nos conectar?
+## 📬 Vamos nos conectar?
+
 Estou sempre aberto a novos desafios e networking.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/felipesouzadev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Felipe Souza">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.google.com/maps/place/Marialva,+PR" target="_blank">
-    <img src="https://img.shields.io/badge/Marialva--PR-000000?style=for-the-badge&logo=google-maps&logoColor=white" alt="Localização Marialva no Google Maps">
+  <a href="mailto:felipeofficee@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.google.com/maps/search/?api=1&query=Marialva+PR" target="_blank">
+    <img src="https://img.shields.io/badge/Marialva--PR-000000?style=for-the-badge&logo=google-maps&logoColor=white" alt="Localização">
   </a>
 </div>
