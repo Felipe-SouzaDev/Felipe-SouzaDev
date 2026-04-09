@@ -30,10 +30,12 @@ Estou sempre aberto a novos desafios e networking.
   <a href="https://www.linkedin.com/in/felipesouzadev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=felipeofficee@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.google.com/maps/search/?api=1&query=Marialva+PR" target="_blank">
+  
+  <a href="https://www.google.com/maps/search/Marialva+PR" target="_blank">
     <img src="https://img.shields.io/badge/Marialva--PR-000000?style=for-the-badge&logo=google-maps&logoColor=white" alt="Localização">
   </a>
 </div>
