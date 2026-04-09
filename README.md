@@ -24,7 +24,17 @@ No momento, estou aprofundando meus conhecimentos nas seguintes ferramentas:
 
 ### 📫 Vamos nos conectar?
 Estou sempre aberto a novos desafios e networking.
-- **LinkedIn:** https://www.linkedin.com/in/felipesouzadev/
-- **E-mail:** felipeofficee@gmail.com
+## 📬 Vamos nos conectar?
 
+Estou sempre aberto a novos desafios e networking.
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/felipesouzadev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Felipe Souza">
+  </a>
+  <a href="mailto:felipeofficee@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Felipe Souza">
+  </a>
+  <img src="https://img.shields.io/badge/Cidade-Marialva--PR-informational?style=for-the-badge&logo=google-maps&logoColor=white" alt="Marialva Paraná">
+</div>
 ---
